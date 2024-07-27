@@ -1,2 +1,2 @@
 # Machines
-The Machines I am preparing for the OSCP
+Maquinas para la preparacion del certificado OSCP
