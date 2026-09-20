@@ -1,2 +1,2 @@
 # Machines
-Maquinas para la preparacion del certificado OSCP
+Penetration testing lab notes focused on enumeration, exploitation and methodology.
